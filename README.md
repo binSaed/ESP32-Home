@@ -1,5 +1,5 @@
 # ESP32-Home
-using ESP32 to controll light from web server and apple home
+using ESP32 to control light from web server and apple home
 
 ## Parts
 * [Esp32](https://amzn.eu/d/8BGa214)
